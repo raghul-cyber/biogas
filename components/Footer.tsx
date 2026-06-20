@@ -38,8 +38,9 @@ export default function Footer() {
             <div className="flex gap-2">
               <input 
                 type="email" 
+                aria-label="Email address for newsletter"
                 placeholder="Email address" 
-                className="bg-forest-950 border border-forest-800 text-forest-100 px-4 py-2 rounded-lg w-full focus:outline-none focus:border-amber-500 transition-colors"
+                className="bg-forest-950 border border-forest-800 text-forest-100 px-4 py-2 rounded-lg w-full focus:outline-none focus:border-amber-500 focus:ring-1 focus:ring-amber-500 transition-colors"
               />
               <button className="bg-forest-800 hover:bg-forest-700 text-forest-100 px-4 py-2 rounded-lg transition-colors">
                 Subscribe
