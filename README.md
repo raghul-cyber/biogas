@@ -41,8 +41,7 @@
 
 ## 📸 Demo
 
-*(Coming soon! Run `npm run dev` locally and record `docs/demo.gif` to display it here).*
-<!-- <img src="./docs/demo.gif" alt="Biogas Showcase Demo" width="100%" /> -->
+<img src="./docs/demo.webp" alt="Biogas Showcase Demo" width="100%" />
 
 ## ✨ Features
 
